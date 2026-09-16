@@ -4,7 +4,7 @@ Hi 👋 My name is Maytinee Sripoonjun
 Qa Engineer
 -----------
 
-I've been learning to playwright for 3 month, after layoff. I started new thing.
+I've been learning to playwright for 5 month, after layoff. I started new thing.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [vi.maytinee@gmail.com](mailto:vi.maytinee@gmail.com)
